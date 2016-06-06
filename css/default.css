@@ -6,7 +6,7 @@
 }
 
 body{
-  background-image: url;(3635981i.jpg), url(fuji.jpg);
+  background-image: url(3635981i.jpg), url(fuji.jpg);
   background-repeat: no-repeat, no-repeat;
   background-size: 5% 5%, cover;
   background-color: lightgrey;
