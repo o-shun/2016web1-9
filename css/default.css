@@ -34,3 +34,29 @@ body{
                            0px  0px 13px deeppink,
                            0px  0px 13px deeppink,
                            0px  0px 13px deeppink;}
+
+
+ .borderradius-one{
+   border-radius: 50px;
+   background-color: floralwhite;
+   padding: 10px;
+   margin:5px;
+ }
+  .borderradius-two{
+   border-radius: 5px 50px;
+   background-color: floralwhite;
+   padding: 10px;
+   margin:5px;
+ }
+  .borderradius-three{
+   border-radius: 5px 20px 40px;
+   background-color: floralwhite;
+   padding: 10px;
+   margin:5px;
+ }
+  .borderradius-four{
+   border-radius: 5px 10px 20px 40px;
+   background-color: floralwhite;
+   padding: 10px;
+   margin:5px;
+ }
