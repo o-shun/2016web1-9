@@ -87,3 +87,7 @@ body{
 }
 .comtent-box{box-sizing:content-box;}
 .border-box{box-sizing:border-box;}
+ 
+ #gradient{
+    font-size: 30px;
+ }
